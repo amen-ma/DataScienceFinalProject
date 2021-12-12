@@ -15,11 +15,17 @@ We each wrote our notebooks in Jupyter and would push them to git using the comm
 
 # Results
 Each of us ended up creating models that were able to get relativly accurate scores. The Solana model was able to predict the scores within eight dollars
-![solana data](https://user-images.githubusercontent.com/54991313/145723224-b8d9b36a-77fc-4422-acc8-3a9397311719.png)
+
+![solana data](https://user-images.githubusercontent.com/54991313/145723224-b8d9b36a-77fc-4422-acc8-3a9397311719.png) 
+
 The Ehtereum model had simillar results and was able to predict the daily high within seven dollars
+
 ![ethereum data](https://user-images.githubusercontent.com/54991313/145723274-ab7de837-0c41-4654-acb5-5097ea2faf44.png)
+
 The Bitcoin model also preformed very well getting an accuracy percentage of 99.97%
+
 ![bitcoin data](https://user-images.githubusercontent.com/54991313/145723339-593c9eb0-02a3-45ca-b81f-49172ea19e15.png)
+
 Overall it seems that all of our models worked very well and were able to very accurately predict the daily high of each coin.
 
 # Discussion
