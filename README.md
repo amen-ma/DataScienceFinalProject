@@ -13,7 +13,7 @@ Above you can see an example of one of our datasets. This is the ethereuem data 
 ![bVis](https://user-images.githubusercontent.com/54991313/145723491-66b72cec-0ba0-45d9-afbb-28ce7f52d300.png)
 
 # Methods and Tools
-We each wrote our notebooks in Jupyter and would push them to git using the command line. We used numpy, scikit, pandas, and matplot lib. We stored all of our code on git creating our own branches and then pushing to main once we completed our code. We all ended up using a train test split and linear regression as our model to get the best scores. The website was built using Jericho to host all of our results.
+We each wrote our notebooks in Jupyter and would push them to git using the command line. We used numpy, scikit, pandas, and matplot lib. We stored all of our code on git creating our own branches and then pushing to main once we completed our code. We all ended up using a train test split and linear regression as our model to get the best scores. The website was built using Jericho to host some of our results.
 
 # Results
 Each of us ended up creating models that were able to get relativly accurate scores. The Solana model was able to predict the scores within eight dollars
@@ -31,7 +31,7 @@ The Bitcoin model also preformed very well getting an accuracy percentage of 99.
 Overall it seems that all of our models worked very well and were able to very accurately predict the daily high of each coin.
 
 # Discussion
-We all aggred that given more time and more information we could expand on this project idea to create a bitcoin price predicted. If we could figured out a way to mine data from multipe sources such as twitter, the stock market, and other factors that influnece cryptocurrency prices we could create a model that would predict the future highs of coins. For the time that we did have we are very happy with what we created as it is able to accurately predict the high price within a couple dollars. (ASK AMEN IF HE WANTS TO TALK ABOUT WEBSITE CREATION)
+We all aggred that given more time and more information we could expand on this project idea to create a bitcoin price predicted. If we could figured out a way to mine data from multipe sources such as twitter, the stock market, and other factors that influnece cryptocurrency prices we could create a model that would predict the future highs of coins. For the time that we did have we are very happy with what we created as it is able to accurately predict the high price within a couple dollars. We did run out of time and could not implement the website to host all of our data. We ended up using the Solana data and got the website working. Much like the rest of our project given more time we could fully implement all of our data onto the website.
 
 # Summary
 Overall this project was a very good way to learn more about machine learning and combine little bits we have learned over the semester about numpy and pandas as well. Our group was able to accurately predict the daily highs of 3 different cryptocurrencies.
