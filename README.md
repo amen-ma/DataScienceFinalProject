@@ -6,7 +6,7 @@ We all are interested in cryptocurrencies so we looked for datasets on this topi
 # Selection of Data
 The dataset included a different CSV file for each coin. Becuase each coin was created at different times each dataset has a different number of samples. The bitcoin dataset contains 4,056 days of data, Ethereum contains 1,994 days, and Solana contains only 445 days of data. However each coin had the same feautres which are the open price, high price, low price, volume of transactions, and change percentage.
 ![Example image of Ethereum dataset](https://user-images.githubusercontent.com/54991313/145722618-be5a6a6c-ae72-408f-a9b0-0b5d61500d75.png)
-Above you can see an example of one of our datasets. This is the ethereuem data set. (ASK ABOUT IF THEY REMOVED DATE FROM DATASET). In terms of preparing the data we did not have to change much. All of our information was numerical so it was perfect to be learned on. We also visulaized some of our data to get a better idea of what it looks like.
+Above you can see an example of one of our datasets. This is the ethereuem data set. We did have to drop the data column from our data because python though the date was a string. Once it was removed the dataset was ready to be used for our models. We also visulaized some of our data to get a better idea of what it looks like.
 
 ![eVis](https://user-images.githubusercontent.com/54991313/145723454-be62e022-ba97-4fd8-9e4a-7c8914f42a06.png)
 
